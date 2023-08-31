@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "Example.sln",
+    "dotnet.preferRuntimeFromSDK": true
+}
